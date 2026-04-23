@@ -1,4 +1,5 @@
 # 🛡️ DoFS-Cash: Enterprise Hybrid-Cloud Payment Ecosystem
+![DFS Cash Architecture](image_f2bb9a6a.png)
 
 **Solusi Pembayaran Retail & Bazaar Skala Besar (Offline-First Technology)**
 
