@@ -1,6 +1,6 @@
 # 🛡️ DoFS-Cash: Enterprise Hybrid-Cloud Payment Ecosystem
 
-**PT. Dreams of Fantasy System** menghadirkan arsitektur pembayaran canggih untuk ekosistem retail dan bazaar skala besar (30 hari operasional). Sistem ini dirancang khusus untuk kondisi lapangan yang sulit sinyal dengan sinkronisasi data berlapis.
+**Dreams of Fantasy System** menghadirkan arsitektur pembayaran canggih untuk ekosistem retail dan bazaar skala besar (30 hari operasional). Sistem ini dirancang khusus untuk kondisi lapangan yang sulit sinyal dengan sinkronisasi data berlapis.
 
 ---
 
@@ -24,4 +24,4 @@
 Repository ini berisi dokumentasi arsitektur. Akses penuh ke *source code* (koding) tersedia melalui program **GitHub Sponsors** atau kontak langsung ke PT. DFS.
 
 ---
-© 2026 PT. Dreams of Fantasy System. Developed by Irwan Gunawan Rakhmat.
+© 2026 Dreams of Fantasy System. Developed by Irwan Gunawan Rakhmat.
